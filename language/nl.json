@@ -377,7 +377,7 @@
         },
         {
           "label": "Melding dat de gebruiker een correct antwoord moet geven op de vraag om verder te gaan",
-          "default": "Je moet een correct antwoord geven op alle vragen om verder te kunnen gaan."
+          "default": "Je moet een juist antwoord geven op alle vragen om verder te kunnen gaan."
         },
         {
           "label": "Terugknop",
@@ -413,7 +413,7 @@
         },
         {
           "label": "Tekst om uit te leggen dat er meerdere interacties zichtbaar zijn geworden",
-          "default": "Meerdere interacties verschenen."
+          "default": "Meerdere interacties verschenen"
         },
         {
           "label": "Video is gepauzeerd",
